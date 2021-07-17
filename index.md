@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to plp page
 
 You can use the [editor on GitHub](https://github.com/PLP1412/mysite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
